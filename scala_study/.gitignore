@@ -1,0 +1,20 @@
+*.class
+*.iml
+*.classpath
+*/target/
+.project
+.settings
+.idea/
+.idea_modules/
+*/.project
+*/.settings
+*/.idea/
+*/.idea_modules/
+*/CVS/
+*/.cvsignore
+*/bin
+
+# Package Files #
+*.jar
+*.war
+*.ear
